@@ -1,0 +1,26 @@
+{
+    "id": "74D26D3A",
+    "path": "D:/SMK/shinyapp/MySARIMA/app.R",
+    "project_path": "MySARIMA/app.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1749399896217.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "80,0",
+        "scrollLine": "68"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1749406758,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1749406758465,
+    "read_only": false,
+    "read_only_alternatives": []
+}
